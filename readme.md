@@ -4,6 +4,9 @@ UK Postcodes
 A CSV of UK postal 
 [out codes](http://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom#Outward_code).
 
+- [MySQL Import Example](#mysql-import-example)
+- [PostgreSQL Import Example](#postgresql-import-example)
+- [MongoDB Import Example](#mongodb-import-example)
 
 ## Contributing
 
@@ -52,7 +55,7 @@ SET
 ;
 ~~~
 
-## PostgresSQL Import Example
+## PostgreSQL Import Example
 
 Table creation.
 
@@ -86,4 +89,10 @@ Add an additional 'id' column to make corrections and/or updates easier.
 
 ~~~sql
 ALTER TABLE outcodes ADD id serial NOT NULL PRIMARY KEY;
+~~~
+
+## MongoDB Import Example
+
+~~~bash
+mongoimport -d [your_database_name] -c [collection_name] --type csv --file postcodes.csv --headerline
 ~~~
