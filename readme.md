@@ -1,7 +1,7 @@
 UK Postcodes
 ============
 
-A CSV of UK postal 
+A CSV of UK postal
 [out codes](http://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom#Outward_code).
 
 - [MySQL Import Example](#mysql-import-example)
@@ -27,6 +27,7 @@ CREATE TABLE outcodes (
 	longitude DECIMAL(11, 8) NOT NULL,
 	town VARCHAR(255) NULL,
 	region VARCHAR(255) NULL,
+	uk_region VARCHAR(255) NULL,
 	country VARCHAR(3) NULL,
 	country_string VARCHAR(255) NULL,
 	PRIMARY KEY(id)
@@ -46,12 +47,12 @@ FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'
 IGNORE 1 LINES
 (
 	@postcode, @eastings, @northings, @latitude, @longitude, @town, @region,
-	@country, @country_string
+	@uk_region, @country, @country_string
 )
 SET
 	postcode=@postcode, eastings=@eastings, northings=@northings,
 	latitude=@latitude, longitude=@longitude, town=@town, region=@region,
-	country=@country, country_string=@country_string
+	uk_region=@uk_region, country=@country, country_string=@country_string
 ;
 ~~~
 
@@ -68,6 +69,7 @@ CREATE TABLE outcodes (
 	longitude DECIMAL(11, 8) NOT NULL,
 	town VARCHAR(255) NULL,
 	region VARCHAR(255) NULL,
+	uk_region VARCHAR(255) NULL,
 	country VARCHAR(3) NULL,
 	country_string VARCHAR(255) NULL,
 );
