@@ -1,0 +1,10 @@
+{
+    "name":    "uk-postcodes",
+    "version": "1.2.0",
+    "private": true,
+    "devDependencies": {
+        "gulp":               "^3.9.1",
+        "gulp-jsonlint":      "~1.1.2",
+        "gulp-yaml-validate": "~1.0.2"
+    }
+}
