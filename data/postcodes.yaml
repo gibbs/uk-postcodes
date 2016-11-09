@@ -7926,7 +7926,7 @@
   northings: '662500'
   postcode: EH24
   region: Midlothian
-  town: ''
+  town: Rosewell
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -7966,7 +7966,7 @@
   northings: '671700'
   postcode: EH28
   region: City of Edinburgh
-  town: ''
+  town: Newbridge and Ratho
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -8056,7 +8056,7 @@
   northings: '662900'
   postcode: EH36
   region: East Lothian
-  town: ''
+  town: Humbie
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -8066,7 +8066,7 @@
   northings: '663600'
   postcode: EH37
   region: Midlothian
-  town: ''
+  town: Pathhead
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -8076,7 +8076,7 @@
   northings: '655200'
   postcode: EH38
   region: The Scottish Borders
-  town: ''
+  town: Heriot
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -8106,7 +8106,7 @@
   northings: '677700'
   postcode: EH40
   region: East Lothian
-  town: ''
+  town: East Linton
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -8116,7 +8116,7 @@
   northings: '673100'
   postcode: EH41
   region: East Lothian
-  town: ''
+  town: Haddington and Gifford
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -8126,7 +8126,7 @@
   northings: '678000'
   postcode: EH42
   region: East Lothian
-  town: ''
+  town: Dunbar
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -8146,7 +8146,7 @@
   northings: '636800'
   postcode: EH44
   region: The Scottish Borders
-  town: ''
+  town: Innerleithen
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -8166,7 +8166,7 @@
   northings: '650100'
   postcode: EH46
   region: The Scottish Borders
-  town: ''
+  town: West Linton and Dolphinton
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -8176,7 +8176,7 @@
   northings: '664200'
   postcode: EH47
   region: West Lothian
-  town: ''
+  town: Blackburn, Whitburn and Fauldhouse
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -8286,7 +8286,7 @@
   northings: '673500'
   postcode: EH8
   region: City of Edinburgh
-  town: ''
+  town: Edinburgh
   uk_region: Scotland
 - country: SCT
   country_string: Scotland

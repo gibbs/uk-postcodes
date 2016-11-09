@@ -8711,7 +8711,7 @@
   "latitude": "55.83956", 
   "northings": "661200"
 },{
-  "town": "", 
+  "town": "Rosewell", 
   "country_string": "Scotland", 
   "eastings": "329100", 
   "country": "SCT", 
@@ -8755,7 +8755,7 @@
   "latitude": "55.89063", 
   "northings": "667300"
 },{
-  "town": "", 
+  "town": "Newbridge and Ratho", 
   "country_string": "Scotland", 
   "eastings": "313400", 
   "country": "SCT", 
@@ -8854,7 +8854,7 @@
   "latitude": "55.91053", 
   "northings": "669000"
 },{
-  "town": "", 
+  "town": "Humbie", 
   "country_string": "Scotland", 
   "eastings": "346700", 
   "country": "SCT", 
@@ -8865,7 +8865,7 @@
   "latitude": "55.85637", 
   "northings": "662900"
 },{
-  "town": "", 
+  "town": "Pathhead", 
   "country_string": "Scotland", 
   "eastings": "340000", 
   "country": "SCT", 
@@ -8876,7 +8876,7 @@
   "latitude": "55.86188", 
   "northings": "663600"
 },{
-  "town": "", 
+  "town": "Heriot", 
   "country_string": "Scotland", 
   "eastings": "339800", 
   "country": "SCT", 
@@ -8909,7 +8909,7 @@
   "latitude": "55.96253", 
   "northings": "675100"
 },{
-  "town": "", 
+  "town": "East Linton", 
   "country_string": "Scotland", 
   "eastings": "359100", 
   "country": "SCT", 
@@ -8920,7 +8920,7 @@
   "latitude": "55.99057", 
   "northings": "677700"
 },{
-  "town": "", 
+  "town": "Haddington and Gifford", 
   "country_string": "Scotland", 
   "eastings": "351600", 
   "country": "SCT", 
@@ -8931,7 +8931,7 @@
   "latitude": "55.94854", 
   "northings": "673100"
 },{
-  "town": "", 
+  "town": "Dunbar", 
   "country_string": "Scotland", 
   "eastings": "367300", 
   "country": "SCT", 
@@ -8953,7 +8953,7 @@
   "latitude": "55.62422", 
   "northings": "637200"
 },{
-  "town": "", 
+  "town": "Innerleithen", 
   "country_string": "Scotland", 
   "eastings": "332900", 
   "country": "SCT", 
@@ -8975,7 +8975,7 @@
   "latitude": "55.65494", 
   "northings": "640800"
 },{
-  "town": "", 
+  "town": "West Linton and Dolphinton", 
   "country_string": "Scotland", 
   "eastings": "315300", 
   "country": "SCT", 
@@ -8986,7 +8986,7 @@
   "latitude": "55.73689", 
   "northings": "650100"
 },{
-  "town": "", 
+  "town": "Blackburn, Whitburn and Fauldhouse", 
   "country_string": "Scotland", 
   "eastings": "295900", 
   "country": "SCT", 
@@ -9107,7 +9107,7 @@
   "latitude": "55.96075", 
   "northings": "674800"
 },{
-  "town": "", 
+  "town": "Edinburgh", 
   "country_string": "Scotland", 
   "eastings": "327400", 
   "country": "SCT", 
