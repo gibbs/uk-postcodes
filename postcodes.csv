@@ -775,18 +775,18 @@ EC4N,532300,181300,51.51463,-0.09314,,City of London,London,ENG,England
 EC4R,532400,181000,51.51191,-0.09181,,City of London,London,ENG,England
 EC4V,531900,181100,51.51293,-0.09897,,City of London,London,ENG,England
 EC4Y,531300,181200,51.51397,-0.10758,,City of London,London,ENG,England
-EH1,325800,673900,55.95243,-3.1884,Edinburgh,City of Edinburgh,Scotland,SCT,Scotland
-EH10,324400,670400,55.92077,-3.20984,Edinburgh,City of Edinburgh,Scotland,SCT,Scotland
-EH11,322000,671900,55.93387,-3.24867,Juniper Green,City of Edinburgh,Scotland,SCT,Scotland
-EH12,320600,672900,55.94262,-3.27137,Edinburgh,City of Edinburgh,Scotland,SCT,Scotland
-EH13,322400,669000,55.90788,-3.24144,Juniper Green,City of Edinburgh,Scotland,SCT,Scotland
-EH14,319800,669200,55.90925,-3.28308,Juniper Green,City of Edinburgh,Scotland,SCT,Scotland
-EH15,330600,673200,55.94686,-3.11136,Edinburgh,City of Edinburgh,Scotland,SCT,Scotland
-EH16,327900,670500,55.92221,-3.15387,Edinburgh,City of Edinburgh,Scotland,SCT,Scotland
-EH17,328600,668800,55.90704,-3.14222,Edinburgh,City of Edinburgh,Scotland,SCT,Scotland
+EH1,325800,673900,55.95243,-3.1884,Old Town,City of Edinburgh,Scotland,SCT,Scotland
+EH10,324400,670400,55.92077,-3.20984,"Morningside, Braid Hill and Swanston",City of Edinburgh,Scotland,SCT,Scotland
+EH11,322000,671900,55.93387,-3.24867,"Gorgie, Stenhouse and Sighthill",City of Edinburgh,Scotland,SCT,Scotland
+EH12,320600,672900,55.94262,-3.27137,"Murrayfield, Corstorphine and Gogar",City of Edinburgh,Scotland,SCT,Scotland
+EH13,322400,669000,55.90788,-3.24144,"Colinton and Oxgangs",City of Edinburgh,Scotland,SCT,Scotland
+EH14,319800,669200,55.90925,-3.28308,"Juniper Green, Currie and Balerno",City of Edinburgh,Scotland,SCT,Scotland
+EH15,330600,673200,55.94686,-3.11136,Portobello,City of Edinburgh,Scotland,SCT,Scotland
+EH16,327900,670500,55.92221,-3.15387,Liberton and Craigmillar,City of Edinburgh,Scotland,SCT,Scotland
+EH17,328600,668800,55.90704,-3.14222,Moredun,City of Edinburgh,Scotland,SCT,Scotland
 EH18,329800,665400,55.87667,-3.12215,Bonnyrigg and Lasswade,Midlothian,Scotland,SCT,Scotland
 EH19,330900,665000,55.87324,-3.10446,Bonnyrigg and Lasswade,Midlothian,Scotland,SCT,Scotland
-EH2,325400,674100,55.95417,-3.19486,Edinburgh,City of Edinburgh,Scotland,SCT,Scotland
+EH2,325400,674100,55.95417,-3.19486,New Town,City of Edinburgh,Scotland,SCT,Scotland
 EH20,327700,665700,55.87905,-3.15579,Loanhead,Midlothian,Scotland,SCT,Scotland
 EH21,334700,672200,55.93845,-3.04548,Musselburgh,East Lothian,Scotland,SCT,Scotland
 EH22,333700,666200,55.88441,-3.06001,Dalkeith,Midlothian,Scotland,SCT,Scotland
@@ -797,7 +797,7 @@ EH26,323400,660600,55.83257,-3.22307,Penicuik,Midlothian,Scotland,SCT,Scotland
 EH27,311000,667300,55.89063,-3.42319,Kirknewton,West Lothian,Scotland,SCT,Scotland
 EH28,313400,671700,55.9306,-3.38624,Newbridge and Ratho,City of Edinburgh,Scotland,SCT,Scotland
 EH29,312700,674600,55.95652,-3.39838,Kirkliston,City of Edinburgh,Scotland,SCT,Scotland
-EH3,325100,674100,55.95412,-3.19967,Edinburgh,City of Edinburgh,Scotland,SCT,Scotland
+EH3,325100,674100,55.95412,-3.19967,"Inverleith, New Town and Fountainbridge",City of Edinburgh,Scotland,SCT,Scotland
 EH30,313700,677700,55.98455,-3.38336,Queensferry,City of Edinburgh,Scotland,SCT,Scotland
 EH31,348500,682900,56.03627,-2.82661,Gullane,East Lothian,Scotland,SCT,Scotland
 EH32,340800,675400,55.96799,-2.94853,Cockenzie and Port Seton,East Lothian,Scotland,SCT,Scotland
@@ -808,7 +808,7 @@ EH36,346700,662900,55.85637,-2.85155,Humbie,East Lothian,Scotland,SCT,Scotland
 EH37,340000,663600,55.86188,-2.95873,Pathhead,Midlothian,Scotland,SCT,Scotland
 EH38,339800,655200,55.78638,-2.96006,Heriot,The Scottish Borders,Scotland,SCT,Scotland
 EH39,354500,684100,56.04766,-2.73052,North Berwick,East Lothian,Scotland,SCT,Scotland
-EH4,321500,675100,55.96253,-3.25761,Edinburgh,City of Edinburgh,Scotland,SCT,Scotland
+EH4,321500,675100,55.96253,-3.25761,"Davidson's Mains, Barnton and Cramond",City of Edinburgh,Scotland,SCT,Scotland
 EH40,359100,677700,55.99057,-2.6557,East Linton,East Lothian,Scotland,SCT,Scotland
 EH41,351600,673100,55.94854,-2.7751,Haddington and Gifford,East Lothian,Scotland,SCT,Scotland
 EH42,367300,678000,55.99389,-2.52428,Dunbar,East Lothian,Scotland,SCT,Scotland
@@ -819,16 +819,16 @@ EH46,315300,650100,55.73689,-3.3491,West Linton and Dolphinton,The Scottish Bord
 EH47,295900,664200,55.85976,-3.66336,"Blackburn, Whitburn and Fauldhouse",West Lothian,Scotland,SCT,Scotland
 EH48,296000,668800,55.9011,-3.66353,Bathgate,West Lothian,Scotland,SCT,Scotland
 EH49,300300,677100,55.97656,-3.59785,Linlithgow,West Lothian,Scotland,SCT,Scotland
-EH5,324100,676400,55.97463,-3.21633,Edinburgh,City of Edinburgh,Scotland,SCT,Scotland
+EH5,324100,676400,55.97463,-3.21633,Granton and Trinity,City of Edinburgh,Scotland,SCT,Scotland
 EH51,300000,681000,56.01153,-3.6041,Grangepans,Falkirk,Scotland,SCT,Scotland
 EH52,307400,672600,55.93756,-3.48256,Broxburn,West Lothian,Scotland,SCT,Scotland
 EH53,307700,667700,55.8936,-3.47608,Livingston,West Lothian,Scotland,SCT,Scotland
 EH54,304700,667600,55.89212,-3.524,Livingston,West Lothian,Scotland,SCT,Scotland
 EH55,301600,662700,55.84748,-3.57178,West Calder,West Lothian,Scotland,SCT,Scotland
-EH6,326700,676000,55.97144,-3.17456,Edinburgh,City of Edinburgh,Scotland,SCT,Scotland
-EH7,327300,674800,55.96075,-3.16463,Edinburgh,City of Edinburgh,Scotland,SCT,Scotland
-EH8,327400,673500,55.94909,-3.16268,Edinburgh,City of Edinburgh,Scotland,SCT,Scotland
-EH9,326000,671800,55.9336,-3.18463,Edinburgh,City of Edinburgh,Scotland,SCT,Scotland
+EH6,326700,676000,55.97144,-3.17456,Newhaven and Leith,City of Edinburgh,Scotland,SCT,Scotland
+EH7,327300,674800,55.96075,-3.16463,"Bonnington, Lochend and Craigentinny",City of Edinburgh,Scotland,SCT,Scotland
+EH8,327400,673500,55.94909,-3.16268,"South Bridge, Holyrood and Willowbrae",City of Edinburgh,Scotland,SCT,Scotland
+EH9,326000,671800,55.9336,-3.18463,Marchmont and Blackford,City of Edinburgh,Scotland,SCT,Scotland
 EN1,533700,196800,51.6536,-0.06707,Enfield,Greater London,London,ENG,England
 EN10,536700,206500,51.74005,-0.01992,Broxbourne,Hertfordshire,East of England,ENG,England
 EN11,537500,209300,51.76502,-0.00723,Hoddesdon,Hertfordshire,East of England,ENG,England
