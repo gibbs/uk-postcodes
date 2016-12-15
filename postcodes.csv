@@ -7,7 +7,7 @@ AB14,383600,801100,57.10076,-2.27073,Peterculter,Aberdeen City,Scotland,SCT,Scot
 AB15,390000,805300,57.13868,-2.16525,Aberdeen,Aberdeen City,Scotland,SCT,Scotland
 AB16,390600,807800,57.16115,-2.15543,Aberdeen,Aberdeen City,Scotland,SCT,Scotland
 AB21,387900,813200,57.2096,-2.20033,Aberdeen Airport,Aberdeen City,Scotland,SCT,Scotland
-AB22,392800,810700,57.18724,-2.11913,Bridge Of Don,Aberdeen City,Scotland,SCT,Scotland
+AB22,392800,810700,57.18724,-2.11913,Bridge of Don,Aberdeen City,Scotland,SCT,Scotland
 AB23,394700,813500,57.21242,-2.08776,Aberdeen,Aberdeen City,Scotland,SCT,Scotland
 AB24,393308,808004,57.16284,-2.11228,Aberdeen,Aberdeen City,Scotland,SCT,Scotland
 AB25,393200,806900,57.15311,-2.11241,Aberdeen,Aberdeen City,Scotland,SCT,Scotland
@@ -893,7 +893,7 @@ FK5,286700,682900,56.02564,-3.81814,,Falkirk,Scotland,SCT,Scotland
 FK6,280700,682600,56.02149,-3.91423,Stoneywood,Falkirk,Scotland,SCT,Scotland
 FK7,280800,691000,56.09695,-3.91636,,Stirling,Scotland,SCT,Scotland
 FK8,272600,695000,56.13075,-4.05001,,Stirling,Scotland,SCT,Scotland
-FK9,279500,696100,56.14242,-3.93955,Bridge Of Allan,Stirling,Scotland,SCT,Scotland
+FK9,279500,696100,56.14242,-3.93955,Bridge of Allan,Stirling,Scotland,SCT,Scotland
 FY1,331200,436000,53.81551,-3.04509,,Blackpool,North West England,ENG,England
 FY2,331700,439300,53.84524,-3.03823,,Blackpool,North West England,ENG,England
 FY3,332800,436600,53.82111,-3.02092,,Blackpool,North West England,ENG,England
@@ -1216,7 +1216,7 @@ IV53,186200,833800,57.34465,-5.55367,,Highland,Scotland,SCT,Scotland
 IV54,183000,843600,57.43101,-5.61538,,Highland,Scotland,SCT,Scotland
 IV55,123500,850300,57.45873,-6.611,,Highland,Scotland,SCT,Scotland
 IV56,133800,839300,57.36636,-6.4279,Isle of Skye,Highland,Scotland,SCT,Scotland
-IV6,252900,851100,57.52634,-4.45682,Muir Of Ord,Highland,Scotland,SCT,Scotland
+IV6,252900,851100,57.52634,-4.45682,Muir of Ord,Highland,Scotland,SCT,Scotland
 IV63,249200,828500,57.32228,-4.50465,Lewiston,Highland,Scotland,SCT,Scotland
 IV7,257500,857400,57.58435,-4.38376,,Highland,Scotland,SCT,Scotland
 IV8,264500,853800,57.55419,-4.26477,,Highland,Scotland,SCT,Scotland
@@ -1978,7 +1978,7 @@ PH20,269300,797900,57.05377,-4.15504,,Highland,Scotland,SCT,Scotland
 PH21,277500,801500,57.08834,-4.02169,,Highland,Scotland,SCT,Scotland
 PH22,290900,813400,57.19857,-3.80587,Aviemore,Highland,Scotland,SCT,Scotland
 PH23,291500,823300,57.28761,-3.80028,,Highland,Scotland,SCT,Scotland
-PH24,294500,819500,57.25419,-3.74891,Boat Of Garten,Highland,Scotland,SCT,Scotland
+PH24,294500,819500,57.25419,-3.74891,Boat of Garten,Highland,Scotland,SCT,Scotland
 PH25,300700,820200,57.26187,-3.64646,Nethy Bridge,Highland,Scotland,SCT,Scotland
 PH26,303400,827700,57.3298,-3.60464,Grantown-on-Spey,Highland,Scotland,SCT,Scotland
 PH3,294600,713500,56.30228,-3.70355,Auchterarder,Perth and Kinross,Scotland,SCT,Scotland
@@ -1994,9 +1994,9 @@ PH39,166200,786700,56.91265,-5.84124,Arisaig,Highland,Scotland,SCT,Scotland
 PH4,289600,709000,56.26072,-3.78244,Blackford,Perth and Kinross,Scotland,SCT,Scotland
 PH40,169900,792200,56.96381,-5.7856,,Highland,Scotland,SCT,Scotland
 PH41,167300,796800,57.00374,-5.83251,Mallaig,Highland,Scotland,SCT,Scotland
-PH42,147900,786600,56.90217,-6.14094,Isle Of Eigg,Highland,Scotland,SCT,Scotland
-PH43,140200,799700,57.01529,-6.28049,Isle Of Rum,Highland,Scotland,SCT,Scotland
-PH44,127000,805200,57.05693,-6.50319,Isle Of Canna,Highland,Scotland,SCT,Scotland
+PH42,147900,786600,56.90217,-6.14094,Isle of Eigg,Highland,Scotland,SCT,Scotland
+PH43,140200,799700,57.01529,-6.28049,Isle of Rum,Highland,Scotland,SCT,Scotland
+PH44,127000,805200,57.05693,-6.50319,Isle of Canna,Highland,Scotland,SCT,Scotland
 PH49,209500,758000,56.675,-5.10977,Glencoe,Highland,Scotland,SCT,Scotland
 PH5,287000,716700,56.32927,-3.8277,Muthill,Perth and Kinross,Scotland,SCT,Scotland
 PH50,218600,762000,56.71451,-4.96427,Kinlochleven,Highland,Scotland,SCT,Scotland
@@ -2055,19 +2055,19 @@ PO20,485600,98900,50.78278,-0.78563,Sidlesham,West Sussex,South East England,ENG
 PO21,491900,99100,50.78362,-0.69622,Aldwick,West Sussex,South East England,ENG,England
 PO22,495300,100800,50.79835,-0.64756,Felpham,West Sussex,South East England,ENG,England
 PO3,466300,102300,50.81589,-1.05877,,Portsmouth,South East England,ENG,England
-PO30,448500,88200,50.69085,-1.3133,Newport,Isle Of Wight,South East England,ENG,England
-PO31,449000,95100,50.75286,-1.30531,Cowes,Isle Of Wight,South East England,ENG,England
-PO32,450800,94900,50.75091,-1.27982,Newport,Isle Of Wight,South East England,ENG,England
-PO33,458600,91700,50.72139,-1.16976,Newport,Isle Of Wight,South East England,ENG,England
-PO34,462700,91100,50.71557,-1.11178,Nettlestone,Isle Of Wight,South East England,ENG,England
-PO35,464700,87900,50.68657,-1.08401,Bembridge,Isle Of Wight,South East England,ENG,England
-PO36,459200,84600,50.65748,-1.1624,Sandown,Isle Of Wight,South East England,ENG,England
-PO37,458200,81700,50.63151,-1.177,Shanklin,Isle Of Wight,South East England,ENG,England
-PO38,453700,78600,50.60406,-1.24108,Ventnor,Isle Of Wight,South East England,ENG,England
-PO39,432600,86900,50.68027,-1.53853,Totland,Isle Of Wight,South East England,ENG,England
+PO30,448500,88200,50.69085,-1.3133,Newport,Isle of Wight,South East England,ENG,England
+PO31,449000,95100,50.75286,-1.30531,Cowes,Isle of Wight,South East England,ENG,England
+PO32,450800,94900,50.75091,-1.27982,Newport,Isle of Wight,South East England,ENG,England
+PO33,458600,91700,50.72139,-1.16976,Newport,Isle of Wight,South East England,ENG,England
+PO34,462700,91100,50.71557,-1.11178,Nettlestone,Isle of Wight,South East England,ENG,England
+PO35,464700,87900,50.68657,-1.08401,Bembridge,Isle of Wight,South East England,ENG,England
+PO36,459200,84600,50.65748,-1.1624,Sandown,Isle of Wight,South East England,ENG,England
+PO37,458200,81700,50.63151,-1.177,Shanklin,Isle of Wight,South East England,ENG,England
+PO38,453700,78600,50.60406,-1.24108,Ventnor,Isle of Wight,South East England,ENG,England
+PO39,432600,86900,50.68027,-1.53853,Totland,Isle of Wight,South East England,ENG,England
 PO4,466100,99400,50.78983,-1.06213,,Portsmouth,South East England,ENG,England
-PO40,433900,87100,50.68199,-1.52011,Freshwater,Isle Of Wight,South East England,ENG,England
-PO41,436900,89100,50.69979,-1.47744,Yarmouth,Isle Of Wight,South East England,ENG,England
+PO40,433900,87100,50.68199,-1.52011,Freshwater,Isle of Wight,South East England,ENG,England
+PO41,436900,89100,50.69979,-1.47744,Yarmouth,Isle of Wight,South East England,ENG,England
 PO5,464500,99200,50.78821,-1.08486,,Portsmouth,South East England,ENG,England
 PO6,465600,105600,50.84564,-1.06811,,Portsmouth,South East England,ENG,England
 PO7,467700,109700,50.88227,-1.03753,Southwick,Hampshire,South East England,ENG,England
@@ -2604,11 +2604,11 @@ TR18,146900,30100,50.1163,-5.54089,Penzance,Cornwall,South West England,ENG,Engl
 TR19,140600,28600,50.10012,-5.62783,Sancreed,Cornwall,South West England,ENG,England
 TR2,189600,43500,50.25334,-4.95186,Tregoney,Cornwall,South West England,ENG,England
 TR20,150700,31600,50.13138,-5.48882,Ludgvan,Cornwall,South West England,ENG,England
-TR21,94600,12000,49.92936,-6.25622,Isles of Scilly,Isles Of Scilly,South West England,ENG,England
-TR22,88100,8200,49.89192,-6.34346,Isles of Scilly,Isles Of Scilly,South West England,ENG,England
-TR23,87900,15000,49.95281,-6.35174,Isles of Scilly,Isles Of Scilly,South West England,ENG,England
-TR24,89200,15200,49.95528,-6.33383,Isles of Scilly,Isles Of Scilly,South West England,ENG,England
-TR25,92200,16000,49.96401,-6.29276,Isles of Scilly,Isles Of Scilly,South West England,ENG,England
+TR21,94600,12000,49.92936,-6.25622,Isles of Scilly,Isles of Scilly,South West England,ENG,England
+TR22,88100,8200,49.89192,-6.34346,Isles of Scilly,Isles of Scilly,South West England,ENG,England
+TR23,87900,15000,49.95281,-6.35174,Isles of Scilly,Isles of Scilly,South West England,ENG,England
+TR24,89200,15200,49.95528,-6.33383,Isles of Scilly,Isles of Scilly,South West England,ENG,England
+TR25,92200,16000,49.96401,-6.29276,Isles of Scilly,Isles of Scilly,South West England,ENG,England
 TR26,151800,39500,50.20276,-5.4786,St Ives,Cornwall,South West England,ENG,England
 TR27,157100,36900,50.18162,-5.4028,Hayle,Cornwall,South West England,ENG,England
 TR3,178200,39900,50.21684,-5.10944,Perranarworthal,Cornwall,South West England,ENG,England
