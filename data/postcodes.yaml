@@ -86,7 +86,7 @@
   northings: '810700'
   postcode: AB22
   region: Aberdeen City
-  town: Bridge Of Don
+  town: Bridge of Don
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -7400,6 +7400,16 @@
   uk_region: London
 - country: ENG
   country_string: England
+  eastings: '538350'
+  latitude: '51.54593'
+  longitude: '0.09248'
+  northings: '184500'
+  postcode: E20
+  region: Greater London
+  town: Queen Elizabeth Olympic Park
+  uk_region: London
+- country: ENG
+  country_string: England
   eastings: '537000'
   latitude: '51.52789'
   longitude: '-0.02482'
@@ -7766,7 +7776,7 @@
   northings: '673900'
   postcode: EH1
   region: City of Edinburgh
-  town: Edinburgh
+  town: Old Town
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -7776,7 +7786,7 @@
   northings: '670400'
   postcode: EH10
   region: City of Edinburgh
-  town: Edinburgh
+  town: Morningside, Braid Hill and Swanston
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -7786,7 +7796,7 @@
   northings: '671900'
   postcode: EH11
   region: City of Edinburgh
-  town: Juniper Green
+  town: Gorgie, Stenhouse and Sighthill
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -7796,7 +7806,7 @@
   northings: '672900'
   postcode: EH12
   region: City of Edinburgh
-  town: Edinburgh
+  town: Murrayfield, Corstorphine and Gogar
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -7806,7 +7816,7 @@
   northings: '669000'
   postcode: EH13
   region: City of Edinburgh
-  town: Juniper Green
+  town: Colinton and Oxgangs
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -7816,7 +7826,7 @@
   northings: '669200'
   postcode: EH14
   region: City of Edinburgh
-  town: Juniper Green
+  town: Juniper Green, Currie and Balerno
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -7826,7 +7836,7 @@
   northings: '673200'
   postcode: EH15
   region: City of Edinburgh
-  town: Edinburgh
+  town: Portobello
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -7836,7 +7846,7 @@
   northings: '670500'
   postcode: EH16
   region: City of Edinburgh
-  town: Edinburgh
+  town: Liberton and Craigmillar
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -7846,7 +7856,7 @@
   northings: '668800'
   postcode: EH17
   region: City of Edinburgh
-  town: Edinburgh
+  town: Moredun
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -7876,7 +7886,7 @@
   northings: '674100'
   postcode: EH2
   region: City of Edinburgh
-  town: Edinburgh
+  town: New Town
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -7986,7 +7996,7 @@
   northings: '674100'
   postcode: EH3
   region: City of Edinburgh
-  town: Edinburgh
+  town: Inverleith, New Town and Fountainbridge
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -8096,7 +8106,7 @@
   northings: '675100'
   postcode: EH4
   region: City of Edinburgh
-  town: Edinburgh
+  town: Davidson's Mains, Barnton and Cramond
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -8206,7 +8216,7 @@
   northings: '676400'
   postcode: EH5
   region: City of Edinburgh
-  town: Edinburgh
+  town: Granton and Trinity
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -8266,7 +8276,7 @@
   northings: '676000'
   postcode: EH6
   region: City of Edinburgh
-  town: Edinburgh
+  town: Newhaven and Leith
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -8276,7 +8286,7 @@
   northings: '674800'
   postcode: EH7
   region: City of Edinburgh
-  town: Edinburgh
+  town: Bonnington, Lochend and Craigentinny
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -8286,7 +8296,7 @@
   northings: '673500'
   postcode: EH8
   region: City of Edinburgh
-  town: Edinburgh
+  town: South Bridge, Holyrood and Willowbrae
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -8296,7 +8306,7 @@
   northings: '671800'
   postcode: EH9
   region: City of Edinburgh
-  town: Edinburgh
+  town: Marchmont and Blackford
   uk_region: Scotland
 - country: ENG
   country_string: England
@@ -8946,7 +8956,7 @@
   northings: '696100'
   postcode: FK9
   region: Stirling
-  town: Bridge Of Allan
+  town: Bridge of Allan
   uk_region: Scotland
 - country: ENG
   country_string: England
@@ -12176,7 +12186,7 @@
   northings: '851100'
   postcode: IV6
   region: Highland
-  town: Muir Of Ord
+  town: Muir of Ord
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -16340,6 +16350,16 @@
   uk_region: London
 - country: ENG
   country_string: England
+  eastings: '530091'
+  latitude: '51.53626'
+  longitude: '-0.12572'
+  northings: '183594'
+  postcode: N1C
+  region: Greater London
+  town: King's Cross
+  uk_region: London
+- country: ENG
+  country_string: England
   eastings: '526900'
   latitude: '51.58957'
   longitude: '-0.16797'
@@ -19796,7 +19816,7 @@
   northings: '819500'
   postcode: PH24
   region: Highland
-  town: Boat Of Garten
+  town: Boat of Garten
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -19956,7 +19976,7 @@
   northings: '786600'
   postcode: PH42
   region: Highland
-  town: Isle Of Eigg
+  town: Isle of Eigg
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -19966,7 +19986,7 @@
   northings: '799700'
   postcode: PH43
   region: Highland
-  town: Isle Of Rum
+  town: Isle of Rum
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -19976,7 +19996,7 @@
   northings: '805200'
   postcode: PH44
   region: Highland
-  town: Isle Of Canna
+  town: Isle of Canna
   uk_region: Scotland
 - country: SCT
   country_string: Scotland
@@ -20565,7 +20585,7 @@
   longitude: '-1.3133'
   northings: '88200'
   postcode: PO30
-  region: Isle Of Wight
+  region: Isle of Wight
   town: Newport
   uk_region: South East England
 - country: ENG
@@ -20575,7 +20595,7 @@
   longitude: '-1.30531'
   northings: '95100'
   postcode: PO31
-  region: Isle Of Wight
+  region: Isle of Wight
   town: Cowes
   uk_region: South East England
 - country: ENG
@@ -20585,7 +20605,7 @@
   longitude: '-1.27982'
   northings: '94900'
   postcode: PO32
-  region: Isle Of Wight
+  region: Isle of Wight
   town: Newport
   uk_region: South East England
 - country: ENG
@@ -20595,7 +20615,7 @@
   longitude: '-1.16976'
   northings: '91700'
   postcode: PO33
-  region: Isle Of Wight
+  region: Isle of Wight
   town: Newport
   uk_region: South East England
 - country: ENG
@@ -20605,7 +20625,7 @@
   longitude: '-1.11178'
   northings: '91100'
   postcode: PO34
-  region: Isle Of Wight
+  region: Isle of Wight
   town: Nettlestone
   uk_region: South East England
 - country: ENG
@@ -20615,7 +20635,7 @@
   longitude: '-1.08401'
   northings: '87900'
   postcode: PO35
-  region: Isle Of Wight
+  region: Isle of Wight
   town: Bembridge
   uk_region: South East England
 - country: ENG
@@ -20625,7 +20645,7 @@
   longitude: '-1.1624'
   northings: '84600'
   postcode: PO36
-  region: Isle Of Wight
+  region: Isle of Wight
   town: Sandown
   uk_region: South East England
 - country: ENG
@@ -20635,7 +20655,7 @@
   longitude: '-1.177'
   northings: '81700'
   postcode: PO37
-  region: Isle Of Wight
+  region: Isle of Wight
   town: Shanklin
   uk_region: South East England
 - country: ENG
@@ -20645,7 +20665,7 @@
   longitude: '-1.24108'
   northings: '78600'
   postcode: PO38
-  region: Isle Of Wight
+  region: Isle of Wight
   town: Ventnor
   uk_region: South East England
 - country: ENG
@@ -20655,7 +20675,7 @@
   longitude: '-1.53853'
   northings: '86900'
   postcode: PO39
-  region: Isle Of Wight
+  region: Isle of Wight
   town: Totland
   uk_region: South East England
 - country: ENG
@@ -20675,7 +20695,7 @@
   longitude: '-1.52011'
   northings: '87100'
   postcode: PO40
-  region: Isle Of Wight
+  region: Isle of Wight
   town: Freshwater
   uk_region: South East England
 - country: ENG
@@ -20685,7 +20705,7 @@
   longitude: '-1.47744'
   northings: '89100'
   postcode: PO41
-  region: Isle Of Wight
+  region: Isle of Wight
   town: Yarmouth
   uk_region: South East England
 - country: ENG
@@ -26055,7 +26075,7 @@
   longitude: '-6.25622'
   northings: '12000'
   postcode: TR21
-  region: Isles Of Scilly
+  region: Isles of Scilly
   town: Isles of Scilly
   uk_region: South West England
 - country: ENG
@@ -26065,7 +26085,7 @@
   longitude: '-6.34346'
   northings: '8200'
   postcode: TR22
-  region: Isles Of Scilly
+  region: Isles of Scilly
   town: Isles of Scilly
   uk_region: South West England
 - country: ENG
@@ -26075,7 +26095,7 @@
   longitude: '-6.35174'
   northings: '15000'
   postcode: TR23
-  region: Isles Of Scilly
+  region: Isles of Scilly
   town: Isles of Scilly
   uk_region: South West England
 - country: ENG
@@ -26085,7 +26105,7 @@
   longitude: '-6.33383'
   northings: '15200'
   postcode: TR24
-  region: Isles Of Scilly
+  region: Isles of Scilly
   town: Isles of Scilly
   uk_region: South West England
 - country: ENG
@@ -26095,7 +26115,7 @@
   longitude: '-6.29276'
   northings: '16000'
   postcode: TR25
-  region: Isles Of Scilly
+  region: Isles of Scilly
   town: Isles of Scilly
   uk_region: South West England
 - country: ENG

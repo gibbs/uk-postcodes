@@ -3,17 +3,22 @@ UK Postcodes
 
 A CSV of UK postal
 [out codes](http://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom#Outward_code).
+JSON and YAML datasets are generated and available for tagged versions under
+the ```data``` directory.
+
+## Contributing
+
+Please feel free to add contributions and corrections to
+the ```postcodes.csv``` CSV. Use a text editor as office applications and
+suites may add unnecessary formatting.
+
+## Database Imports
 
 - [MySQL Import Example](#mysql-import-example)
 - [PostgreSQL Import Example](#postgresql-import-example)
 - [MongoDB Import Example](#mongodb-import-example)
 
-## Contributing
-
-Please feel free to add contributions and corrections to the CSV. Use a text
-editor as office applications and suites may add unnecessary formatting.
-
-## MySQL Import Example
+### MySQL Example
 
 Table creation.
 
@@ -56,7 +61,7 @@ SET
 ;
 ~~~
 
-## PostgreSQL Import Example
+### PostgreSQL Example
 
 Table creation.
 
@@ -93,7 +98,7 @@ Add an additional 'id' column to make corrections and/or updates easier.
 ALTER TABLE outcodes ADD id serial NOT NULL PRIMARY KEY;
 ~~~
 
-## MongoDB Import Example
+### MongoDB Example
 
 ~~~bash
 mongoimport -d [your_database_name] -c [collection_name] --type csv --file postcodes.csv --headerline
