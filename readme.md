@@ -14,9 +14,9 @@ suites may add unnecessary formatting.
 
 ## Database Imports
 
-- [MySQL Import Example](#mysql-import-example)
-- [PostgreSQL Import Example](#postgresql-import-example)
-- [MongoDB Import Example](#mongodb-import-example)
+- [MySQL Import Example](#mysql-example)
+- [PostgreSQL Import Example](#postgresql-example)
+- [MongoDB Import Example](#mongodb-example)
 
 ### MySQL Example
 
