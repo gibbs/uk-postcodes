@@ -1,6 +1,10 @@
 UK Postcodes
 ============
 
+**Notice: This repository is no longer being actively maintained. For more
+comprehensive and reliable data please see the
+[Ordnance Survey](https://goo.gl/5yAam) products**
+
 A CSV of UK postal
 [out codes](http://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom#Outward_code).
 JSON and YAML datasets are generated and available for tagged versions under
